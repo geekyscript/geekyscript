@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @geekyscript
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 Geeky Script is an e-learning platform with thousands of unique visitors each month. This is an attempt to teach the basics of coding to all aspirants which took me ages to learn.
+- 📫 Want to reach me?
 
-<!---
-geekyscript/geekyscript is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Youtube: https://www.youtube.com/c/geekyscript
+Website: https://geekyscript.com/
+Twitter: https://twitter.com/GeekyScript
+LinkedIn: https://www.linkedin.com/in/geekyscript/

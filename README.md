@@ -3,7 +3,7 @@
 <br>
 Hit that subscribe button to catch our upcoming videos. I'm here to help with any questions you have about tech. Let's learn and have fun together!<br>
 <br>
-🌐 Stay Connected:
+🌐 Stay Connected:<br>
 ► Youtube: https://www.youtube.com/c/geekyscript<br>
 ► Website: https://geekyscript.com/<br>
 ► Twitter: https://twitter.com/GeekyScript<br>

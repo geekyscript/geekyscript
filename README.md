@@ -1,3 +1,5 @@
+<img src="https://github.com/geekyscript/geekyscript/blob/master/geekyscript.png">
+
 - 👋 Hi, I’m @geekyscript
 - 👀 Geeky Script is an e-learning platform with Millions of unique visitors each month. This is an attempt to teach the basics of coding to all aspirants which took me ages to learn. At Geeky Script, we break down computer programming and other tech topics in a way that's friendly for both beginners and tech-savvy folks. If you're into coding or want to know more about the latest technologies then you're in the right spot.<br>
 <br>

@@ -13,6 +13,6 @@ Hit that subscribe button to catch our upcoming videos. I'm here to help with an
 <br>
 Exciting tutorials and tech updates are on the way at Geeky Script! 🚀<br>
 <br>
-🎯 Goal: 100k Tech Enthusiasts<br>
+🎯 Goal: 1M Tech Enthusiasts<br>
 <br>
 Let's dive into the tech world together because learning should be fun and easy!
